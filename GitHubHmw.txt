@@ -1,0 +1,9 @@
+
+"This is my first gitHub transaction, adding 2 files to gitHub"
+
+This week I created the repository github account and,
+also I downloaded the slack and added myself to the account with 
+other group class . I also cloned my repository link to the github
+using git clone, as well as creaated a file which I added comments 
+and paste it to the github account. I also used the git push 
+origin master to update the code..
